@@ -157,7 +157,7 @@ def main():
             if a["price"]:
                 lines.append(f"- {a['name']} ({a['price']}) → {full_url}")  # ← modifie ça
             else:
-                lines.append(f"- {a['name']} → {full_url}") ['name']}")
+                lines.append(f"- {a['name']} → {full_url}")
         lines.append("")
 
     if total_new == 0:
