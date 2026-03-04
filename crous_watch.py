@@ -18,6 +18,9 @@ URLS = [
     "https://trouverunlogement.lescrous.fr/tools/42/search?bounds=1.4462445_49.241431_3.5592208_48.1201456",
     "https://trouverunlogement.lescrous.fr/tools/42/search?bounds=2.1695755_48.7188772_2.209699_48.6755091",
     "https://trouverunlogement.lescrous.fr/tools/42/search?bounds=2.1997654_48.8827632_2.2367935_48.8593914",
+    "https://trouverunlogement.lescrous.fr/tools/42/search?bounds=2.224122_48.902156_2.4697602_48.8155755",
+    "https://trouverunlogement.lescrous.fr/tools/42/search?bounds=1.4462445_49.241431_3.5592208_48.1201456",
+    "https://trouverunlogement.lescrous.fr/tools/42/search?occupationModes=alone&occupationModes=house_sharing&bounds=2.224122_48.902156_2.4697602_48.8155755",
     "https://trouverunlogement.lescrous.fr/tools/42/search?bounds=2.224122_48.902156_2.4697602_48.8155755"]
 
 STATE_FILE = "known_accommodations.json"
